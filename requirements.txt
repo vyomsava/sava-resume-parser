@@ -2,4 +2,3 @@ pyresparser
 pyairtable
 nltk
 wget
-os
